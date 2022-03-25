@@ -1,6 +1,6 @@
 [//]: # (Image References)
 
-[image1]: ./images/mona_lisa_keypoints.png "Facial Keypoint Detection"
+[image1]: ./images/michelle_detected.png "Facial Keypoint Detection"
 
 # Facial Keypoint Detection
 
