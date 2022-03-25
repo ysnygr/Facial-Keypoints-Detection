@@ -11,6 +11,8 @@ This project, I trained a CNN model which predict the locations of keypoints aro
 
 You don't need to use GPU but with GPU, training time 4-5 times short.
 
+**This project is generated using lectures of Udacity Computer Vision Nanodegree programme.**
+
 ![Facial Keypoint Detection][image1]
 
 
